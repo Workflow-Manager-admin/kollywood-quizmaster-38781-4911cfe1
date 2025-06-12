@@ -1,9 +1,13 @@
 :root {
-  --base-light: #00ffff;
-  --base-dark: #00008b;
-  --text-color: #ffffff;
-  --text-secondary: rgba(255, 255, 255, 0.7);
-  --border-color: rgba(255, 255, 255, 0.1);
+  --primary-color: #fa00d9;
+  --accent-color: #0d0d0d;
+  --secondary-color: #fcfbf8;
+  --app-bg: #fff;
+  --text-color: #222;
+  --btn-hover: #f75aac;
+  --quiz-card-bg: #f8eafd;
+  --border-color: #e4e4e6;
+  --text-secondary: #7d7d82;
 }
 
 body {
